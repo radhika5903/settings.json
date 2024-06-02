@@ -1,3 +1,7 @@
-{
-    "java.debug.settings.onBuildFailureProceed": true
+import java.util.Scanner;
+
+public class jeon{
+    public static void main(String{}args){
+        System.out.println("hellooo")
+    }
 }
